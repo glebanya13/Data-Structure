@@ -1,0 +1,3 @@
+﻿  Laboratory-9.cpp
+D:\Labs\Data-Structure\Laboratory-9\Laboratory-9\Laboratory-9.cpp(26,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laboratory-9.vcxproj -> D:\Labs\Data-Structure\Laboratory-9\x64\Debug\Laboratory-9.exe
